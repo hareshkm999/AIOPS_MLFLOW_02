@@ -1,0 +1,4 @@
+.pyre/
+
+# ignoring env
+env/
