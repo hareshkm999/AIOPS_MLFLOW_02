@@ -2,3 +2,6 @@
 
 # ignoring env
 env/
+
+# mlruns
+mlruns/
